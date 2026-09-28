@@ -11,6 +11,8 @@ string|menu_subtitle|Q29ucXVlciB0aGUgZ2FsYXh5
 string|menu|TWVudQ==
 string|missions_coming_soon|TWlzc2lvbiBtYXBzIGFyZSBjb21pbmcgc29vbg==
 string|missions|TWlzc2lvbnM=
+string|music_off|TXVzaWM6IG9mZg==
+string|music_on|TXVzaWM6IG9u
 string|owner_enemy|RW5lbXkgJTEkZA==
 string|owner_neutral|TmV1dHJhbA==
 string|owner_you|WW91
@@ -30,6 +32,8 @@ string|size_large|TGFyZ2U=
 string|size_medium|TWVkaXVt
 string|size_small|U21hbGw=
 string|size|U2l6ZQ==
+string|sound_off|U291bmQ6IG9mZg==
+string|sound_on|U291bmQ6IG9u
 string|victory_subtitle|VGhlIGdhbGF4eSBpcyB5b3Vycw==
 string|victory|VmljdG9yeSE=
 string|your_fleets|WW91ciBmbGVldHM=
