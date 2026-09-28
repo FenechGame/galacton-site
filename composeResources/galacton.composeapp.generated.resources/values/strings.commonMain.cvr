@@ -1,6 +1,7 @@
 version:0
 string|attack|QXR0YWNr
 string|back|QmFjaw==
+string|campaign_complete|QWxsIG1pc3Npb25zIGNvbXBsZXRlZCE=
 string|close|Q2xvc2U=
 string|defeat_subtitle|QWxsIHlvdXIgcGxhbmV0cyBhcmUgbG9zdA==
 string|defeat|RGVmZWF0
@@ -9,10 +10,12 @@ string|game_title|R0FMQUNUT04=
 string|main_menu|TWFpbiBtZW51
 string|menu_subtitle|Q29ucXVlciB0aGUgZ2FsYXh5
 string|menu|TWVudQ==
-string|missions_coming_soon|TWlzc2lvbiBtYXBzIGFyZSBjb21pbmcgc29vbg==
+string|mission_number|TWlzc2lvbiAlMSRk
+string|missions_progress|Q29tcGxldGVkOiAlMSRkIC8gJTIkZA==
 string|missions|TWlzc2lvbnM=
 string|music_off|TXVzaWM6IG9mZg==
 string|music_on|TXVzaWM6IG9u
+string|next_mission|TmV4dCBtaXNzaW9u
 string|owner_enemy|RW5lbXkgJTEkZA==
 string|owner_neutral|TmV1dHJhbA==
 string|owner_you|WW91
@@ -34,6 +37,7 @@ string|size_small|U21hbGw=
 string|size|U2l6ZQ==
 string|sound_off|U291bmQ6IG9mZg==
 string|sound_on|U291bmQ6IG9u
+string|try_again|VHJ5IGFnYWlu
 string|victory_subtitle|VGhlIGdhbGF4eSBpcyB5b3Vycw==
 string|victory|VmljdG9yeSE=
 string|your_fleets|WW91ciBmbGVldHM=
